@@ -22,9 +22,9 @@
  - 期望城市：上海
 
 # 技能
- - php
+ - php/nginx/linux
  - Js/jquery
- - Vue/小程序
+ - Vue/小程序/Webpack
  - MySQL/redis
  - Sketch/Adobe XD
  - MQ
