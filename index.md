@@ -98,6 +98,7 @@ Mcloud项目是基于以往的赛事办赛经验，搭建起一整套基于赛�
 - web端:Vue elementui antdisign iview 
 
 - h5端:Vue vant vux oneui
+
 ## 上海米城网络科技有限公司 (2013年4月~ 2015年10月)
 ### 职位:全栈开发工程师
 ### 工作内容
