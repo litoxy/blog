@@ -70,29 +70,34 @@ h5端:Vue&vant
 #### 项目介绍
 该项目是公司和上海市市民运动会项目组深度合作的项目,我们为这次运动会开发了物资配送模块、以及**线上运动会**模块。该项目也是我主导开发的项目,包括数据库、接口以及后台的大部分功能都由我独立完成。因为是To G项目,在前期的需求沟通过程中也掌握了一些技巧。
 #### 使用技术
-服务端:Php/Yii/mysql/redis
-小程序端:微信原生小程序&vant
-web端:Yii&adminLte
-h5端:Vue&vant
+- 服务端:Php/Yii/mysql/redis
+- 小程序端:微信原生小程序&vant
+- web端:Yii&adminLte
+- h5端:Vue&vant
 ### 奔跑吧少东家 商城系统 （2018年5月~2019年12月）
 #### 项目介绍
 
 该项目是公司和**京东校园**深度合作的一款面向在校学生的的城系统。包含了商品的售卖、拍卖、抽奖等多种玩法。曾多次被 **京东白条** 等大号推广。项目运营期间,日活稳定在10W+。
 我负责了该项目的部分api开发以及整个小程序和管理后台的开发。
 #### 使用技术
-服务端:Php/Yii/mysql/redis/RocketMQ
-小程序端:微信原生小程序&vant
-web端:Yii&adminLte
-h5端:Vue&vant
+
+- 服务端:Php/Yii/mysql/redis/RocketMQ
+- 小程序端:微信原生小程序&vant
+- web端:Yii&adminLte
+- h5端:Vue&vant
 ### 其他项目 (2015年~至今)
 #### 项目介绍
 
 除了上述项目外,公司大部分的项目我都有深度参与,除了服务端开发外。还有大量的小程序开发(20+)、h5开发以及管理后台开发。其中包括公司创业初期的app接口以及管理后台开发，跑团管理系统、MPMS系统(公司内部的赛事管理系统,Mcloud前身)、国家智能体测达标赛系统等等。
 #### 使用技术
-服务端:Php&Yii&laravel/mysql/redis/RocketMQ
-小程序端:微信原生小程序&vant
-web端:Vue elementui antdisign iview 
-h5端:Vue vant vux oneui
+
+- 服务端:Php&Yii&laravel/mysql/redis/RocketMQ
+
+- 小程序端:微信原生小程序&vant
+
+- web端:Vue elementui antdisign iview 
+
+- h5端:Vue vant vux oneui
 ## 上海米城网络科技有限公司 (2013年4月~ 2015年10月)
 ### 职位:全栈开发工程师
 ### 工作内容
@@ -104,16 +109,18 @@ h5端:Vue vant vux oneui
 
 一个基于LBS的商家售卖系统,主打功能是急速配送。包括商家app端、商家PC端、用户端。我负责商家app端和用户端app接口的开发。
 #### 使用技术
-服务端:Php&Thinkphp&mysql
-web端:Jquery&html
+- 服务端:Php&Thinkphp&mysql
+- web端:Jquery&ajax&html
 
 ### 安卡汽车门店管理软件(2013年4月~2013年11月)
 #### 项目介绍
 
 汽车维修门店会员管理系统,有用户充值、项目管理、财务报表管理等功能模块。我负责门店app端和用户端app接口的开发。
 #### 使用技术
-服务端:Php&Thinkphp&mysql
-web端:Jquery&html
+
+- 服务端:Php&Thinkphp&mysql
+
+- web端:Jquery&ajax&html
 ## 宁夏计算机软件与技术服务有限公司 (2010年10 ~2012年10月)
 
 ### 宁夏招标局弱电项目
