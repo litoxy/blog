@@ -21,6 +21,15 @@
  - 期望薪资：税前月薪23k~25k
  - 期望城市：上海
 
+# 技能
+ - php
+ - Js/jquery
+ - Vue/小程序
+ - MySQL/redis
+ - Sketch/Adobe XD
+ - MQ
+ - Python(个人项目使用，无实际项目经验)
+ - Golang(自学中)
 
 # 工作经历
 ## 每步科技上海有限公司 （ 2015年10月 ~ 目前 ）
